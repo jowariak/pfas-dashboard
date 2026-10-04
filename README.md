@@ -39,7 +39,7 @@ provided with the associated research release.
 
 ## Dashboard
 
-**[Open the live PFAS Dashboard →](YOUR_NETLIFY_URL)**
+**[Open the live PFAS Dashboard →](https://pfas-dashboard.netlify.app/)**
 
 ## Authors
 
