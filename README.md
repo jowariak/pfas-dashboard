@@ -43,5 +43,12 @@ provided with the associated research release.
 
 ## Authors
 
-Jowaria Khan  
-University of Michigan
+Jowaria Khan
+Alexa Friedman
+Sydney Evans
+Rachel Klein
+Runzi Wang
+Katherine E. Manz
+Kaley Beins
+David Q. Andrews
+Elizabeth Bondi-Kelly
